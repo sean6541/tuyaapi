@@ -1,0 +1,16 @@
+Metadata-Version: 4.0
+Name: tuyaapi
+Version: 1.1
+Summary: Python interface to Tuya WiFi smart devices.
+Home-page: https://tuyaapi.seandev.org
+Author: seandev
+Author-email: seandolson654@gmail.com
+License: MIT
+Description: Python interface to Tuya WiFi smart devices.
+Keywords: home automation
+Platform: UNKNOWN
+Classifier: Development Status :: 4 - Beta
+Classifier: Intended Audience :: Developers
+Classifier: Topic :: Home Automation
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python
