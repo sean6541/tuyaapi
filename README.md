@@ -1,1 +1,1 @@
-See (https://tuyaapi.seandev.org)
+See https://tuyaapi.seandev.org
