@@ -6,5 +6,5 @@ Documentation
 
 The base class.
   
-##### Parameters
+###### Parameters
 - _email_: User email
