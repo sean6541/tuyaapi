@@ -7,4 +7,4 @@ Documentation
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The base class.
   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;##### Parameters
-    - _email_: User email
+    * _email_: User email
