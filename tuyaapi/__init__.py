@@ -90,8 +90,6 @@ class DevSetup(object):
         self.passw = passw
         self.token = None
         self.secret = None
-
-    def gentok(self):
         cmd = 'tuya.m.device.token.create'
         data = {
             'timeZone': '+00:00'
@@ -99,7 +97,6 @@ class DevSetup(object):
         resp = self.tapi.requestapi(cmd, data)
         self.token = resp['token']
         self.secret = resp['secret']
-        return
 
     def setupdev(self):
         data = {
