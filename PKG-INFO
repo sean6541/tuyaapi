@@ -1,4 +1,4 @@
-Metadata-Version: 4.0
+Metadata-Version: 5.0
 Name: tuyaapi
 Version: 1.1
 Summary: Python interface to Tuya WiFi smart devices.
