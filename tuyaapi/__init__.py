@@ -112,7 +112,7 @@ class DevSetup(object):
         finaldata = prefix + l1 + datatoenc + suffix
         s = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
         s.bind(('0.0.0.0', 6670))
-        s.sendto(finaldata, ('192.168.1.4', 6669))
+        s.sendto(finaldata, ('192.168.4.1', 6669))
         s.close()
         return
 
