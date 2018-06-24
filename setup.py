@@ -9,7 +9,7 @@ with open(path.join(here, 'README'), encoding='utf-8') as f:
 
 setup(
     name='tuyaapi',
-    version='7.1',
+    version='7.2',
     description='Python interface to Tuya WiFi smart devices.',
     long_description='Python interface to Tuya WiFi smart devices.',
     url='https://tuyaapi.seandev.org',
